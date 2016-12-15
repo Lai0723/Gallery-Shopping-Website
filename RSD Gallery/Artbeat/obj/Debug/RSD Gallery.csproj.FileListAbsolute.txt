@@ -1,0 +1,102 @@
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Artbeat.dll.config
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Artbeat.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Artbeat.pdb
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\EntityFramework.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Owin.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\System.Web.Providers.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\WebGrease.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\EntityFramework.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\obj\Debug\RSD Gallery.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\obj\Debug\Artbeat.dll
+C:\Users\user\Desktop\RSD Gallery - Copy\Artbeat\obj\Debug\Artbeat.pdb
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Artbeat.dll.config
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Artbeat.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Artbeat.pdb
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Antlr3.Runtime.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\EntityFramework.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\EntityFramework.SqlServer.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Newtonsoft.Json.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Owin.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\System.Web.Optimization.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\System.Web.Providers.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\WebGrease.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\System.Web.Optimization.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Antlr3.Runtime.pdb
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Newtonsoft.Json.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\EntityFramework.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\EntityFramework.SqlServer.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user\Desktop\RSD Gallery\Artbeat\obj\Debug\RSD Gallery.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\RSD Gallery\Artbeat\obj\Debug\Artbeat.dll
+C:\Users\user\Desktop\RSD Gallery\Artbeat\obj\Debug\Artbeat.pdb
