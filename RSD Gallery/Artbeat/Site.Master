@@ -14,7 +14,7 @@
     <webopt:bundlereference runat="server" path="~/Content/css" />
     <link href="~/splash.ico" rel="shortcut icon" type="image/x-icon" />
 
-    <style>
+ <style>
         #slideshow { 
    
     position: relative; 
@@ -34,6 +34,8 @@
 }
 
     </style>
+
+
 </head>
 <body>
     <form runat="server">
@@ -66,7 +68,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" runat="server" href="~/">RSD GALLERY</a>
+                    <a class="navbar-brand" runat="server" href="~/">RSD Gallery</a>
                 </div>
                 <div class="navbar-collapse collapse">
                     <ul class="nav navbar-nav">
@@ -83,7 +85,6 @@
                             <ul class="nav navbar-nav navbar-right">
                                 <li><a runat="server" href="~/Account/Register">Register</a></li>
                                 <li><a runat="server" href="~/Account/Login">Log in</a></li>
-                                
                             </ul>
                         </AnonymousTemplate>
                         <LoggedInTemplate>
@@ -120,7 +121,7 @@
             </asp:ContentPlaceHolder>
             <hr />
             <footer>
-                <p>&copy; <%: DateTime.Now.Year %> - ARTBEAT</p>
+                <p>&copy; <%: DateTime.Now.Year %> - RSD Gallery</p>
             </footer>
         </div>
     </form>

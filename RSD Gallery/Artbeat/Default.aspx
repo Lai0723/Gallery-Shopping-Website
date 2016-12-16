@@ -24,8 +24,7 @@ setInterval(function() {
 }, 3000);
 
 </script>
-
-    
+    </div>
 
     <div class="row">
         <div class="col-md-4">
@@ -33,16 +32,16 @@ setInterval(function() {
             <p>
                 We have some display artworks checkout our gallery!!!</p>
             <p>
-                <a class="btn btn-default" href="Gallery.aspx">Galleryt»</a>
+                <a class="btn btn-default" href="Gallery.aspx">Gallery</a>
             </p>
         </div>
         <div class="col-md-4">
             <h2 style="background-color: rgba(252, 156, 22, 0.72)">Know more</h2>
             <p>
-                Want to know more about Artbeat<br /> Navigate here
+                Want to know more about RSD Gallery<br /> Navigate here
             </p>
             <p>
-                <a class="btn btn-default" href="About.aspx">About Artbeat&raquo;</a>
+                <a class="btn btn-default" href="About.aspx">About RSD Gallery&raquo;</a>
             </p>
         </div>
         <div class="col-md-4">

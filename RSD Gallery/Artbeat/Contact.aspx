@@ -3,7 +3,7 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <h3>Your contact page.</h3>
-    <address><b> THE ARTBEAT GALLRRY</b> <br />
+    <address><b> THE RSD Gallery</b> <br />
         Dadar, Mumbai 28<br />
     </address>
 

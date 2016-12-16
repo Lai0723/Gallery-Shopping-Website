@@ -23,6 +23,7 @@ namespace Artbeat
             //Initialize the product dataase
             Database.SetInitializer(new ProductDatabaseInitializer());
 
+            //Create the custom role and user.
            
         }
     }

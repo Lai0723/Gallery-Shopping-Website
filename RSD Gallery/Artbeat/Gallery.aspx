@@ -2,7 +2,7 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
-    These are some artworks which are there in the ARTBEAT. Visit our gallery for the more exciting artworks!
+    These are some artworks which are there in the RSD Gallery. Visit our gallery for the more exciting artworks!
     You can buy these artworks anytime. As these are full size expensive artworks we are not going to sell online!!
     <br />
     <!--1st row start -->
