@@ -8,6 +8,7 @@ using System.Web.Security;
 using System.Web.SessionState;
 using System.Data.Entity;
 using Artbeat.Models;
+using Artbeat.Logic;
 
 
 namespace Artbeat
@@ -23,8 +24,7 @@ namespace Artbeat
             //Initialize the product dataase
             Database.SetInitializer(new ProductDatabaseInitializer());
 
-            //Create the custom role and user.
-           
+            
         }
     }
 }
