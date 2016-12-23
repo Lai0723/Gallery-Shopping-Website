@@ -36,8 +36,20 @@
     <table>
         <tr>
             <td>
-                <asp:Button ID="UpdateBtn" runat="server" CssClass="btn btn-pirmary" Text="Update" OnClick="UpdateBtn_Click" />
+                <asp:Button ID="updateBut" runat="server" CssClass="btn btn-pirmary" Text="Update" OnClick="UpdateBtn_Click" />
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:Button ID="BuyBtn" runat="server" CssClass="btn btn-pirmary" Text="Buy now" OnClick="UpdateBtn_Click" PostBackUrl="~/purchase.aspx" />
+
+                
+           
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <asp:Button ID="DeleteBut" runat="server" CssClass="btn btn-pirmary" Text="Delete" OnClick="UpdateBtn_Click"  />
+
+                
+           
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
                 
            
         </tr>

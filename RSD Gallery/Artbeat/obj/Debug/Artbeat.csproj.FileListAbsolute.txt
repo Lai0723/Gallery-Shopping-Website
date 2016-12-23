@@ -508,3 +508,105 @@ C:\Users\lai\Desktop\test - Copy (2)\Artbeat\bin\Microsoft.Owin.Security.OAuth.x
 C:\Users\lai\Desktop\test - Copy (2)\Artbeat\obj\Debug\Artbeat.csprojResolveAssemblyReference.cache
 C:\Users\lai\Desktop\test - Copy (2)\Artbeat\obj\Debug\Artbeat.dll
 C:\Users\lai\Desktop\test - Copy (2)\Artbeat\obj\Debug\Artbeat.pdb
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Artbeat.dll.config
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Artbeat.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Artbeat.pdb
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Antlr3.Runtime.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\EntityFramework.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\EntityFramework.SqlServer.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Newtonsoft.Json.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Owin.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\System.Web.Optimization.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\System.Web.Providers.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\WebGrease.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\System.Web.Optimization.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Antlr3.Runtime.pdb
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Newtonsoft.Json.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\EntityFramework.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\EntityFramework.SqlServer.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lai\Desktop\Add to cart version\Artbeat\obj\Debug\Artbeat.csprojResolveAssemblyReference.cache
+C:\Users\lai\Desktop\Add to cart version\Artbeat\obj\Debug\Artbeat.dll
+C:\Users\lai\Desktop\Add to cart version\Artbeat\obj\Debug\Artbeat.pdb
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Artbeat.dll.config
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Artbeat.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Artbeat.pdb
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Antlr3.Runtime.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\EntityFramework.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\EntityFramework.SqlServer.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Newtonsoft.Json.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Owin.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\System.Web.Optimization.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\System.Web.Providers.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\WebGrease.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\System.Web.Optimization.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Antlr3.Runtime.pdb
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Newtonsoft.Json.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\EntityFramework.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\EntityFramework.SqlServer.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\lai\Desktop\purchase version\Artbeat\obj\Debug\Artbeat.csprojResolveAssemblyReference.cache
+C:\Users\lai\Desktop\purchase version\Artbeat\obj\Debug\Artbeat.dll
+C:\Users\lai\Desktop\purchase version\Artbeat\obj\Debug\Artbeat.pdb

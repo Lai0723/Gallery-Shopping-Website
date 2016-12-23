@@ -30,8 +30,10 @@ namespace Artbeat
                     LabelTotalText.Text = "";
                     lblTotal.Text = "";
                     ShoppingCartTitle.InnerText = "Shopping Cart is Empty";
-                    UpdateBtn.Visible = false;
-                    
+                    updateBut.Visible = false;
+                    BuyBtn.Visible = false;
+                    DeleteBut.Visible = false;
+
                 }
             }
         }
