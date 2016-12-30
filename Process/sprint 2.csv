@@ -1,0 +1,50 @@
+Id,Title,Labels,Iteration,Iteration Start,Iteration End,Type,Estimate,Current State,Created at,Accepted at,Deadline,Requested By,Description,URL,GitHub ID,Integration,Owned By,Comment,Comment,Task,Task Status,Task,Task Status
+136105147,"As a user , i want to have contact page and about page so that i can know more about the company and contact the admin if have any problem.",,1,"Dec 12, 2016","Dec 18, 2016",feature,3,accepted,"Nov 20, 2016","Dec 17, 2016",,BOON SENG LIM,,https://www.pivotaltracker.com/story/show/136105147,,,WEI CHUN LAI,"Commit by kar chen
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/6e66ab9fc575003cc219fcbc7f44bd2ab2417ad5
+
+[#136105147] [#136104959] [#136105073] (WEI CHUN LAI - Dec 15, 2016)",,,,,
+136104959,"As a user, i want to have a menu that display all art gallery with category so that i can choose the gallery i want to.",,1,"Dec 12, 2016","Dec 18, 2016",feature,3,accepted,"Nov 20, 2016","Dec 17, 2016",,Kcchan Chan Kah Chen,,https://www.pivotaltracker.com/story/show/136104959,,,WEI CHUN LAI,"Commit by kar chen
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/6e66ab9fc575003cc219fcbc7f44bd2ab2417ad5
+
+[#136105147] [#136104959] [#136105073] (WEI CHUN LAI - Dec 15, 2016)",,add a select function for the buyer to select the gallery.,completed,,
+136105073,"As a user, i want the function that whenever i click on the art  the information of the art will display so that i can know more about the gallery.",,1,"Dec 12, 2016","Dec 18, 2016",feature,3,accepted,"Nov 20, 2016","Dec 17, 2016",,Kcchan Chan Kah Chen,,https://www.pivotaltracker.com/story/show/136105073,,,WEI CHUN LAI,"Commit by kar chen
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/6e66ab9fc575003cc219fcbc7f44bd2ab2417ad5
+
+[#136105147] [#136104959] [#136105073] (WEI CHUN LAI - Dec 15, 2016)",,,,,
+136104805,"As a user , i want to register as a new member and log in to the account so that i can purchase online.",,1,"Dec 12, 2016","Dec 18, 2016",feature,3,accepted,"Nov 20, 2016","Dec 17, 2016",,WEI CHUN LAI,,https://www.pivotaltracker.com/story/show/136104805,,,WEI CHUN LAI,"Commit by boonsenglim
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/c959ec1d7f848d4b043b3f1a0166954fa3f1d8f8
+
+[#136104805] login function updated (WEI CHUN LAI - Dec 15, 2016)","Commit by benjamin
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/1a75932065ab6eeda5f718f7e3adf844157aeb8c
+
+[#136104805] login function updated (WEI CHUN LAI - Dec 17, 2016)",register function,completed,login function,completed
+136105243,"As a user , i want to have change password function so that i can change the password when i wanted to.",,1,"Dec 12, 2016","Dec 18, 2016",feature,3,accepted,"Nov 20, 2016","Dec 18, 2016",,Benjamin Ho,,https://www.pivotaltracker.com/story/show/136105243,,,WEI CHUN LAI,"Commit by lai
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/5c8f6059d713e17be310256199b2b0802d514e6d
+
+[#136105243] change password function updated (WEI CHUN LAI - Dec 18, 2016)",,,,,
+136105289,"As a user, i want to have add to cart  function so that i can purchase multiple items at once.",,2,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Nov 20, 2016","Dec 25, 2016",,WEI CHUN LAI,,https://www.pivotaltracker.com/story/show/136105289,,,WEI CHUN LAI,"Commit by kar chen
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/079ab6c54c1338e982024cbc705cd96a0e37ce5a
+
+[#136105369]  [#136105289] add to cart function uploaded (WEI CHUN LAI - Dec 22, 2016)","Commit by kar chen
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/15e891816a41b0364ce35fbb23c29a207397cba4
+
+[#136105289] new add to cart updated (WEI CHUN LAI - Dec 25, 2016)",display the subtotal of the gallery ad to the cart.,completed,,
+136105369,"As a user, i want to delete function in the cart so that i can remove the gallery that i dont want to buy.",,2,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Nov 20, 2016","Dec 25, 2016",,WEI CHUN LAI,,https://www.pivotaltracker.com/story/show/136105369,,,WEI CHUN LAI,"Commit by kar chen
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/079ab6c54c1338e982024cbc705cd96a0e37ce5a
+
+[#136105369]  [#136105289] add to cart function uploaded (WEI CHUN LAI - Dec 22, 2016)",,,,,
+136105329,"As a user, i want to purchase online so that i can buy the gallery through online.",,2,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Nov 20, 2016","Dec 25, 2016",,BOON SENG LIM,,https://www.pivotaltracker.com/story/show/136105329,,,WEI CHUN LAI,"Commit by boonsenglim
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/1bedd7644064772b72cd51f87bb8a230cedd1dae
+
+[#136105329] payment function update (WEI CHUN LAI - Dec 22, 2016)",,,,,
+136105435,"As a user, i want to pay my order with different card so that i can confirm my purchase.",,2,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Nov 20, 2016","Dec 25, 2016",,WEI CHUN LAI,,https://www.pivotaltracker.com/story/show/136105435,,,WEI CHUN LAI,"Commit by benjamin
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/85d20193126e9034099139745fb716197aef4224
+
+[#136105435] validation and payment type updated (WEI CHUN LAI - Dec 23, 2016)",,visa card,completed,master card,completed
+136105545,"As a staff, i want to have a manage function so that i can upload new gallery to the website or delete it.",,2,"Dec 19, 2016","Dec 25, 2016",feature,3,accepted,"Nov 20, 2016","Dec 25, 2016",,WEI CHUN LAI,,https://www.pivotaltracker.com/story/show/136105545,,,WEI CHUN LAI,"Commit by Lai0723
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/9a8bea22aeca3e4858b88cd76f46a187d0f032b3
+
+[#136105545]aa (WEI CHUN LAI - Dec 14, 2016)","Commit by lai
+https://github.com/Lai0723/Gallery-Shopping-Website/commit/2aa35ffee7262704b3a6327379340d673bc3a0c0
+
+[#136105545] admin function updated (WEI CHUN LAI - Dec 25, 2016)",add new gallery,completed,delete existing gallery,completed
